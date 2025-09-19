@@ -18,16 +18,18 @@ Grab the latest release jar from the [Releases page](../../releases/latest).
   <summary><b>Show: Anvil (Frost Walker removed from result)</b></summary>
 
   <!-- Replace with your actual GIF path or URL -->
-![Anvil demo – Frost Walker stripped](assets/anvil-demo.gif)
+![Anvil demo – Frost Walker stripped](https://github.com/user-attachments/assets/4122c292-b13c-41ea-9f70-8f61c8ac61c7)
 
-*In this clip, the anvil combines/renames normally, but any Frost Walker on the result is removed.*
+
+*In this clip, the anvil combines/renames normally, but any Frost Walker on the result is removed and won't be added.*
 </details>
 
 <details>
   <summary><b>Show: No freezing effect while wearing Frost Walker</b></summary>
 
   <!-- Replace with your actual GIF path or URL -->
-![No freezing – Frosted ice never forms](assets/no-freeze-demo.gif)
+![No freezing – Frosted ice never forms](https://github.com/user-attachments/assets/f680e154-d2fb-4474-8b5f-29f94fc6b0eb)
+
 
 *Even if a player wears Frost Walker boots, water does not freeze into frosted ice.*
 </details>
