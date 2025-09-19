@@ -1,21 +1,40 @@
-.gradle
+# === Java / Build outputs ===
+/out/
+/build/
 **/build/
 !src/**/build/
+.project
+.classpath
 
-# Ignore Gradle GUI config
+# === Gradle ===
+/.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+!.gradle/verification-metadata.xml
 gradle-app.setting
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-# Avoid ignore Gradle wrappper properties
 !gradle-wrapper.properties
-
-# Cache of project
 .gradletasknamecache
 
-# Eclipse Gradle plugin generated files
-# Eclipse Core
-.project
-# JDT-specific (Eclipse Java Development Tools)
-.classpath
+# If you generate local test servers or paperweight caches:
+.paperweight/
+run/
+
+# === IntelliJ IDEA ===
+*.iml
+.idea/
+/*.ipr
+/*.iws
+
+
+# === Logs & temp ===
+*.log
+hs_err_pid*
+replay_pid*
+*.tmp
+*.swp
+*.swo
+
+# === Misc ===
+# Ignore local environment files or secrets (if you make any)
+.env
+.env.*
