@@ -1,6 +1,9 @@
 # 🌍 GlobalWarming
 
-A Paper plugin for **Minecraft 1.21.8** that disables the **Frost Walker** enchantment.
+A Paper plugin for **Minecraft 1.21.10** that disables the **Frost Walker** enchantment.
+Tested in:
+- 1.21.8
+- 1.21.10
 
 ## ✨ Features
 

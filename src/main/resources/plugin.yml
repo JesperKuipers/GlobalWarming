@@ -1,5 +1,5 @@
 name: GlobalWarming
-version: '1.0'
+version: '1.1'
 main: wasbever.globalWarming.GlobalWarming
 api-version: '1.21'
 description: Blocks Frost Walker from being applied and disables its effect.
